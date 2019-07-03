@@ -7,3 +7,9 @@ Cette page pointe vers une selection d'outils basés sur l'intelligence artifici
 * [White paper](https://docs.google.com/document/d/1XUFQAgdzNDIg7zXevipnMst7eMTujhB0y_XNJYEhWgY/edit?usp=sharing)
 * [Notebook](https://colab.research.google.com/drive/1x7wHaiJ-_rPfRqz1DcRJ_Hbq61t6lFKi)
 
+
+## [Speech](https://paperswithcode.com/area/speech)
+### [Speech-Recognition](https://paperswithcode.com/task/speech-recognition)
+* [Notebook](https://colab.research.google.com/drive/1Z6VIRZ_sX314hyev3Gm5gBqvm1wQVo-a)
+### [Speech-Synthesis](https://paperswithcode.com/task/speech-synthesis)
+* [Notebook](https://colab.research.google.com/drive/11okUcZmPmSJF8bWqUn_Ae4XI7urHLPs-)
