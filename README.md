@@ -12,4 +12,5 @@ Cette page pointe vers une selection d'outils basés sur l'intelligence artifici
 ### [Speech-Recognition](https://paperswithcode.com/task/speech-recognition)
 * [Notebook](https://colab.research.google.com/drive/1Z6VIRZ_sX314hyev3Gm5gBqvm1wQVo-a)
 ### [Speech-Synthesis](https://paperswithcode.com/task/speech-synthesis)
-* [Notebook](https://colab.research.google.com/drive/11okUcZmPmSJF8bWqUn_Ae4XI7urHLPs-)
+* TTS: [Notebook](https://colab.research.google.com/drive/11okUcZmPmSJF8bWqUn_Ae4XI7urHLPs-)
+* Voice Cloning for TTS: [Notebook](https://colab.research.google.com/drive/1WERg0eK9mVZYSbE0faQM4VH3NTdrOuUS)
