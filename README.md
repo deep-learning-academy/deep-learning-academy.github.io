@@ -6,7 +6,7 @@ Cette page pointe vers une selection d'outils basés sur l'intelligence artifici
 #### [Super-résolution](https://paperswithcode.com/task/super-resolution)
 * [White paper](https://docs.google.com/document/d/1XUFQAgdzNDIg7zXevipnMst7eMTujhB0y_XNJYEhWgY/edit?usp=sharing)
 * [Notebook](https://colab.research.google.com/drive/1x7wHaiJ-_rPfRqz1DcRJ_Hbq61t6lFKi)
-#### [Réponse à des questions sur des images (Visual Question Answering](https://paperswithcode.com/task/visual-question-answering)
+#### [Réponse à des questions sur des images (Visual Question Answering)](https://paperswithcode.com/task/visual-question-answering)
 * [Notebook](https://github.com/numediart/Visual-Question-Answering)
 
 ## [Parole](https://paperswithcode.com/area/speech)
