@@ -11,17 +11,22 @@ Participent à la mise en place de cette page (cette liste n'est pas fermée) :
 [UCLouvain](https://uclouvain.be), [UMONS](https://web.umons.ac.be), [ULiege](http://www.uliege.be), [Multitel](https://www.multitel.be), [Cetic](https://www.cetic.be/)
 
 ## [Vision par ordinateur](https://paperswithcode.com/area/computer-vision)
+
 #### [Super-résolution](https://paperswithcode.com/task/super-resolution)
 * [White paper](https://docs.google.com/document/d/1XUFQAgdzNDIg7zXevipnMst7eMTujhB0y_XNJYEhWgY/edit?usp=sharing)
 * [Notebook](https://colab.research.google.com/drive/1x7wHaiJ-_rPfRqz1DcRJ_Hbq61t6lFKi)
 
 #### [Réponse à des questions sur des images (Visual Question Answering)](https://paperswithcode.com/task/visual-question-answering)
 * [Notebook](https://github.com/numediart/Visual-Question-Answering)
+
 #### [Segmentation d'instance (Instance Segmentation)](https://paperswithcode.com/task/instance-segmentation)
 * [Notebook](https://github.com/numediart/InstanceSegmentation)
+
 #### [Prédiction de la profondeur d'une image monoculaire](https://paperswithcode.com/task/monocular-depth-estimation)
 * [Notebook](https://colab.research.google.com/drive/18VnxzAmFutrGK-FT6FxPITjMoT3wylgU)
+
 ## [Parole](https://paperswithcode.com/area/speech)
+
 #### [Reconnaissance de la parole](https://paperswithcode.com/task/speech-recognition)
 * [Notebook](https://colab.research.google.com/drive/1Z6VIRZ_sX314hyev3Gm5gBqvm1wQVo-a)
 
