@@ -6,7 +6,7 @@ Elle pointe vers une selection d'outils basés sur l'intelligence artificielle p
 Les documents fournis ici sont libres de droits ([CC BY 2.0 BE](https://creativecommons.org/licenses/by/2.0/be/)), mais les libriaries logicielles utilisées dans ces documents et provenant de tiers sous évidemment soumises aux licenses imposées par leurs auteurs - le plus souvent nous avons cependant choisi des outils dont les auteurs ont libéré les droits). 
 
 Participent à la mise en place de cette page (cette liste n'est pas fermée) : 
-[UCLouvain](http://uclouvain.be) [UMONS](/images/umons.png) [ULiege](http://www.uliege.be) [Multitel](https://www.multitel.be) [Cetic](https://www.cetic.be/)
+![UCLouvain](https://uclouvain.be) ![UMONS](https://www.umons.ac.be) ![ULiege](http://www.uliege.be) ![Multitel](https://www.multitel.be) ![Cetic](https://www.cetic.be/)
 
 ## [Vision par ordinateur](https://paperswithcode.com/area/computer-vision)
 #### [Super-résolution](https://paperswithcode.com/task/super-resolution)
