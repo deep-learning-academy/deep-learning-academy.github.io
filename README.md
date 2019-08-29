@@ -1,8 +1,10 @@
 ## Bienvenue à la page "Outils" de la DEEP-LEARNING-ACADEMY
 
 La Deep Learning Academy est une association informelle d'universités et de centres de recherches wallons qui se sont fixés pour objectif de faciliter les échanges d'information sur les récents développements scientifiques et technologiques en IA. Initiée en 2017 par l'Université Catholique de Louvain, l'Université de Mons, et le centre de recherche Multitel, cette association organise périodiquement des réunions auxquelles participent également des industriels, afin de présenter les dernières avancées en IA et échanger sur les projets locaux en cours.
+
 Cette page est un des moyens mis en oeuvre par la Deep Learning Academy pour rendre l'IA accessible au plus grand nombre.  
 Elle pointe vers une selection d'outils basés sur l'intelligence artificielle pour résoudre des tâches, selon la classification de la  [page PapersWithCode](https://paperswithcode.com/sota). Les outils sélectionnés sont accompagnés d'un code de test dans un notebook jupyter, qu'on peut exécuter directement dans une session Google Colab, et parfois d'un "white paper" (un article qui explique de manière fonctionnelle la tâche examinée, et la solution retenue). 
+
 Les documents fournis ici sont libres de droits ([CC BY 2.0 BE](https://creativecommons.org/licenses/by/2.0/be/)), mais les libriaries logicielles utilisées dans ces documents et provenant de tiers sous évidemment soumises aux licenses imposées par leurs auteurs - le plus souvent nous avons cependant choisi des outils dont les auteurs ont libéré les droits). 
 
 Participent à la mise en place de cette page (cette liste n'est pas fermée) : 
