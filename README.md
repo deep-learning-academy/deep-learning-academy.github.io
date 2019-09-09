@@ -12,14 +12,14 @@ Participent à la mise en place de cette page (cette liste n'est pas fermée) :
 
 ## [Vision par ordinateur](https://paperswithcode.com/area/computer-vision)
 
+#### [Détection d'objets](https://paperswithcode.com/task/object-detection)
+* [Readme](https://github.com/numediart/yolov3_tensorflow)
+* [Notebook](https://github.com/numediart/yolov3_tensorflow/blob/master/test.ipynb)
+
 #### [Synthèse d'images naturelles](https://paperswithcode.com/task/conditional-image-generation)
 * [Readme](https://github.com/numediart/ImageSynthesis)
 * [Notebook1](https://github.com/numediart/ImageSynthesis/blob/master/HuggingFace/BigGan_handsonai_1.ipynb)
 * [Notebook2](https://github.com/numediart/ImageSynthesis/blob/master/ivclab/BigGan_handsonai_2.ipynb)
-
-#### [Détection d'objets](https://paperswithcode.com/task/object-detection)
-* [Readme](https://github.com/numediart/yolov3_tensorflow)
-* [Notebook](https://github.com/numediart/yolov3_tensorflow/blob/master/test.ipynb)
 
 #### [Super-résolution](https://paperswithcode.com/task/super-resolution)
 * [White paper](https://docs.google.com/document/d/1XUFQAgdzNDIg7zXevipnMst7eMTujhB0y_XNJYEhWgY/edit?usp=sharing)
