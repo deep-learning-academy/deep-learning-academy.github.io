@@ -50,3 +50,5 @@ Participent à la mise en place de cette page (cette liste n'est pas fermée) :
 ## [Traitement du langage naturel](https://paperswithcode.com/area/natural-language-processing)
 #### [Modélisation du langage](https://paperswithcode.com/task/language-modelling)
 * Génération de texte : [GitHub](https://github.com/numediart/Text-Generation) - [Notebook](https://colab.research.google.com/drive/1d4Ffe-cR6TWDgUYDInTUqUTqk1-SyP9O#scrollTo=hFWa2On1yoZy)
+
+![Logo FEDER-FSE](https://www.enmieux.be/sites/all/themes/enmieux_theme/img/logo-feder-fse.png)
