@@ -17,6 +17,10 @@ Participent à la mise en place de cette page (cette liste n'est pas fermée) :
 * [Notebook1](https://github.com/numediart/ImageSynthesis/blob/master/HuggingFace/BigGan_handsonai_1.ipynb)
 * [Notebook2](https://github.com/numediart/ImageSynthesis/blob/master/ivclab/BigGan_handsonai_2.ipynb)
 
+#### [Détection d'objets](https://paperswithcode.com/task/object-detection)
+* [Readme](https://github.com/numediart/yolov3_tensorflow)
+* [Notebook](https://github.com/numediart/yolov3_tensorflow/blob/master/test.ipynb)
+
 #### [Super-résolution](https://paperswithcode.com/task/super-resolution)
 * [White paper](https://docs.google.com/document/d/1XUFQAgdzNDIg7zXevipnMst7eMTujhB0y_XNJYEhWgY/edit?usp=sharing)
 * [Notebook](https://colab.research.google.com/drive/1x7wHaiJ-_rPfRqz1DcRJ_Hbq61t6lFKi)
@@ -29,6 +33,10 @@ Participent à la mise en place de cette page (cette liste n'est pas fermée) :
 
 #### [Prédiction de la profondeur d'une image monoculaire](https://paperswithcode.com/task/monocular-depth-estimation)
 * [Notebook](https://colab.research.google.com/drive/18VnxzAmFutrGK-FT6FxPITjMoT3wylgU)
+
+#### [Comptage de foule](https://paperswithcode.com/task/crowd-counting)
+* [Readme](https://github.com/numediart/Crowd-Counting-with-MCNNs)
+* [Notebook](https://github.com/numediart/Crowd-Counting-with-MCNNs/blob/master/test.ipynb)
 
 ## [Parole](https://paperswithcode.com/area/speech)
 
