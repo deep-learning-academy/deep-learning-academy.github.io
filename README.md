@@ -25,10 +25,10 @@ Participent à la mise en place de cette page (cette liste n'est pas fermée) :
 * [White paper](https://docs.google.com/document/d/1XUFQAgdzNDIg7zXevipnMst7eMTujhB0y_XNJYEhWgY/edit?usp=sharing)
 * [Notebook](https://colab.research.google.com/drive/1x7wHaiJ-_rPfRqz1DcRJ_Hbq61t6lFKi)
 
-#### [Réponse à des questions sur des images (Visual Question Answering)](https://paperswithcode.com/task/visual-question-answering)
+#### [Réponse à des questions sur des images](https://paperswithcode.com/task/visual-question-answering)
 * [Notebook](https://github.com/numediart/Visual-Question-Answering)
 
-#### [Segmentation d'instance (Instance Segmentation)](https://paperswithcode.com/task/instance-segmentation)
+#### [Segmentation d'instance](https://paperswithcode.com/task/instance-segmentation)
 * [Notebook](https://github.com/numediart/InstanceSegmentation)
 
 #### [Prédiction de la profondeur d'une image monoculaire](https://paperswithcode.com/task/monocular-depth-estimation)
