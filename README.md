@@ -26,7 +26,7 @@ Participent à la mise en place de cette page (cette liste n'est pas fermée) :
 
 #### [Super-résolution](https://paperswithcode.com/task/super-resolution)
 * [White paper](https://docs.google.com/document/d/1XUFQAgdzNDIg7zXevipnMst7eMTujhB0y_XNJYEhWgY/edit?usp=sharing)
-* [Notebook](https://colab.research.google.com/drive/1x7wHaiJ-_rPfRqz1DcRJ_Hbq61t6lFKi)
+* [Notebook](https://colab.research.google.com/github/titsitits/Test_images_superresolution/blob/master/Super_resolution_comparison.ipynb)
 
 #### [Réponse à des questions sur des images](https://paperswithcode.com/task/visual-question-answering)
 * [Notebook](https://github.com/numediart/Visual-Question-Answering)
