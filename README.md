@@ -10,7 +10,7 @@ Les documents fournis ici sont libres de droits ([CC BY 2.0 BE](https://creative
 Participent à la mise en place de cette page (cette liste n'est pas fermée) : 
 [UCLouvain](https://uclouvain.be), [UMONS](https://web.umons.ac.be), [ULiege](http://www.uliege.be), [Multitel](https://www.multitel.be), [Cetic](https://www.cetic.be/), avec soutien des projets FEDER, cofinancés par L’Union Européenne et la Région Wallone.
 
-![Logo FEDER-FSE](https://www.lalouviere.be/ma-ville/renovation-urbaine/logo-feder-fse-wal.jpg/@@images/ae0e0627-db4f-4b9e-87be-3e8337df0053.jpeg)
+![Logo FEDER-FSE](https://www.enmieux.be/sites/default/files/assets/media-files/signatures/vignette_FEDER_FSE%2BWAL%2BFWB.png)
 
  
 ----
