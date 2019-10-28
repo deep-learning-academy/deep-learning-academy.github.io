@@ -12,7 +12,8 @@ Participent à la mise en place de cette page (cette liste n'est pas fermée) :
 
 ![Logo FEDER-FSE](https://www.lalouviere.be/ma-ville/renovation-urbaine/logo-feder-fse-wal.jpg/@@images/ae0e0627-db4f-4b9e-87be-3e8337df0053.jpeg)
 
-
+ 
+----
 ## [Vision par ordinateur](https://paperswithcode.com/area/computer-vision)
 
 #### [Détection d'objets](https://paperswithcode.com/task/object-detection)
@@ -41,6 +42,7 @@ Participent à la mise en place de cette page (cette liste n'est pas fermée) :
 * [Readme](https://github.com/numediart/Crowd-Counting-with-MCNNs)
 * [Notebook](https://github.com/numediart/Crowd-Counting-with-MCNNs/blob/master/test.ipynb)
 
+----
 ## [Parole](https://paperswithcode.com/area/speech)
 
 #### [Reconnaissance de la parole](https://paperswithcode.com/task/speech-recognition)
@@ -50,6 +52,7 @@ Participent à la mise en place de cette page (cette liste n'est pas fermée) :
 * Synthèse du texte à la parole : [Notebook](https://colab.research.google.com/drive/11okUcZmPmSJF8bWqUn_Ae4XI7urHLPs-)
 * Clonage de voix pour la synthèse vocale : [Notebook](https://colab.research.google.com/drive/1WERg0eK9mVZYSbE0faQM4VH3NTdrOuUS)
 
+----
 ## [Traitement du langage naturel](https://paperswithcode.com/area/natural-language-processing)
 #### [Modélisation du langage](https://paperswithcode.com/task/language-modelling)
 * Génération de texte : [GitHub](https://github.com/numediart/Text-Generation) - [Notebook](https://colab.research.google.com/drive/1d4Ffe-cR6TWDgUYDInTUqUTqk1-SyP9O#scrollTo=hFWa2On1yoZy)
